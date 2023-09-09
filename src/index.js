@@ -7,3 +7,7 @@ const client = new Client({
     IntentsBitField.Flags.MessageContent,
   ],
 });
+
+client.login(
+  "MTE0OTc5MTI2ODE2ODI2OTgzNA.GlywtN.FIE70O8zFaI-ciUUsFOjXSP2x3fqdiNatChSOM"
+);
